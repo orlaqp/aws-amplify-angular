@@ -16,5 +16,20 @@
         }
       }
     }
+  },
+  "auth": {
+    "docmanagementapp3429a2e5": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "providerPlugin": "awscloudformation",
+      "type": "manual"
+    }
   }
 }

@@ -10,6 +10,17 @@
       "StackName": "amplify-docmanagementapp-dev-161358",
       "StackId": "arn:aws:cloudformation:us-east-1:582975573471:stack/amplify-docmanagementapp-dev-161358/d7d2f0d0-f23b-11eb-b3ac-12e26def3eab",
       "AmplifyAppId": "d2r7d1py0ccop8"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2r7d1py0ccop8",
+          "type": "manual"
+        }
+      },
+      "auth": {
+        "docmanagementapp3429a2e5": {}
+      }
     }
   }
 }
